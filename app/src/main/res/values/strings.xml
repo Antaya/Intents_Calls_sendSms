@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intents_Calls_sendSms</string>
+    <string name="enter_the_number_phone">Enter the number phone</string>
+    <string name="enter_sms">Enter sms</string>
+    <string name="call">Call</string>
+    <string name="send_sms">Send sms</string>
+</resources>
